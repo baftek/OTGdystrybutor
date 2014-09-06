@@ -19,3 +19,24 @@
 *.exe
 *.out
 *.app
+atm16_OTGdystr/.dep/ds18b20.o.d
+atm16_OTGdystr/.dep/main.o.d
+atm16_OTGdystr/atm16_OTGdystr_VS/Debug/atm16_OTGdystr_VS.log
+atm16_OTGdystr/atm16_OTGdystr_VS/atm16_OTGdystr_VS.opensdf
+atm16_OTGdystr/atm16_OTGdystr_VS/atm16_OTGdystr_VS.sdf
+atm16_OTGdystr/atm16_OTGdystr_VS/atm16_OTGdystr_VS.sln
+atm16_OTGdystr/atm16_OTGdystr_VS/atm16_OTGdystr_VS.v11.suo
+atm16_OTGdystr/atm16_OTGdystr_VS/atm16_OTGdystr_VS.vcxproj
+atm16_OTGdystr/atm16_OTGdystr_VS/atm16_OTGdystr_VS.vcxproj.filters
+atm16_OTGdystr/atm16_OTGdystr_VS/atm16_OTGdystr_VS.vcxproj.user
+atm16_OTGdystr/ds18b20.lst
+atm16_OTGdystr/main - Kopia.c
+atm16_OTGdystr/main.eep
+atm16_OTGdystr/main.elf
+atm16_OTGdystr/main.hex
+atm16_OTGdystr/main.lss
+atm16_OTGdystr/main.lst
+atm16_OTGdystr/main.map
+atm16_OTGdystr/main.sym
+atm16_OTGdystr/main_CO.txt
+atm16_OTGdystr/main_longi.c
